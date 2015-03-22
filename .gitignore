@@ -1,0 +1,9 @@
+.DS_Store
+# Created by https://www.gitignore.io
+
+#!! ERROR: b is undefined. Use list command to see defined gitignore types !!#
+
+### Bower ###
+.bower-cache
+.bower-registry
+.bower-tmp
